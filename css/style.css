@@ -1,0 +1,18 @@
+body {
+	font-size: 14px;
+	line-height: 24px;
+	color: #000;
+	font-weight: bold;
+	font-family: "PT Sans Narrow";
+	text-transform: uppercase;
+}
+header {
+	font-size: 16px;
+	color:#fff;
+	line-height: auto;
+}
+footer {
+	font-size: 14px;
+	color: #fff;
+}
+
