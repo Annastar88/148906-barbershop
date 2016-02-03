@@ -1,15 +1,15 @@
 body {
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.5;
   color: #000;
-  font-weight: bold;
-  font-family: "PT Sans Narrow", "Arial", "Sans-serif";
+  font-weight: 700;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
   text-transform: uppercase;
 }
 header {
   font-size: 16px;
-  color:#fff;
+  color: #fff;
 }
-.filter h2 {
+.filter legend {
   font-size: 24px;
 }
